@@ -1,6 +1,6 @@
 {
   "name": "Code Your Own Quiz",
   "tagline": "Python Syntax functions",
-  "body": "# Stage 2: Build a Mad Libs Game\r\n\r\nThis is where you’ll learn how to program. You’ll learn a programming language called Python and you’ll use it to write instructions that the computer can understand and execute. After this stage you will have incredible power: you will be able to automate almost any repetitive task that can be done on a computer. In the project checkpoint you will write a program in Python to build a reverse Mad Libs game.\r\n\r\nThis project is a part of the Introduction to Programming Nanodegree.\r\n",
+  "body": "# IPND Stage 2: Build a Mad Libs Game\r\n\r\nBuilt a fill-in-the blanks type quiz to leverage the power of functions in Python and mastered the ability to automate repetitive tasks that can be done on a computer.\r\n\r\n Nanodegree Project",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
